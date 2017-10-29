@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Big Globo 2
+Description=Big Linux Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/biglinux-globo2
+ScriptFile=/usr/share/plymouth/themes/biglinux-globo2/biglinux-globo2.script
+
